@@ -1,4 +1,4 @@
-##Navigating objects in an array
+##Joining objects
 
 You have three arrays with objects inside them:
 
