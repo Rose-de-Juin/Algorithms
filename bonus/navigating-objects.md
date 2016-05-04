@@ -41,6 +41,7 @@ And a final `usersHaveBooks` array looks like so:
 ##Your tasks:
 
 * Write a function `innerJoin` that uses the three provided arrays to return a new array, where each element is also an array containing three objects, one each pulled from `users`, `books` and `usersHaveBooks`. Here's the catch: The user object's `id` property **must match** the `user_id` property of the `usersHaveBooks` object, and the book object's `id` property **must match** the `book_id` property of the `usersHaveBooks` object.
+* Write a function called `leftJoin` that accepts three arrays. **All** the objects in whichever array is passed as the *first* argument should be represented in the final output array.
 
 Feel free to copy the following dummy data:
 
