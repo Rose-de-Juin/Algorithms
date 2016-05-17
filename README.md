@@ -1,5 +1,5 @@
 ##Coding Dojo Algorithm Challenges
-###Python Stack
+###Online Bootcamp
 
 A collection of challenges for online Coding Dojo students. The algorithms should be completed in JavaScript.
 
