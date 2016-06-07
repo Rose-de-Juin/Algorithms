@@ -2,3 +2,5 @@ solutions/
 *.js
 *.py
 google/
+hackerrank/
+.gitignore
