@@ -4,4 +4,5 @@
 | ------------------------------ |
 | [make-change](make-change.md)  |
 | [joining-objects](joining-objects.md) |
-| [credit-card-validate](credit-card-validate.md) |
+| [credit-card-validate](credit-card-validate.md)|
+| [merge-sorted-lists](merge-sorted-lists.md) |
