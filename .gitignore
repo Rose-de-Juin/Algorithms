@@ -3,4 +3,5 @@ solutions/
 *.py
 google/
 hackerrank/
+sorts/
 .gitignore
