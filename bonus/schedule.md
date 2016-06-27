@@ -7,4 +7,4 @@
 | [credit-card-validate](credit-card-validate.md)|
 | [merge-sorted-lists](merge-sorted-lists.md) |
 | [string-anagrams](string-anagrams.md) |
-| [climbing-stiars](climbing-stiars.md) |
+| [climbing-stairs](climbing-stairs.md) |
