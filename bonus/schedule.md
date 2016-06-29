@@ -8,3 +8,4 @@
 | [merge-sorted-lists](merge-sorted-lists.md) |
 | [string-anagrams](string-anagrams.md) |
 | [climbing-stairs](climbing-stairs.md) |
+| [set-cover](set-cover.md) |
