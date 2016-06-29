@@ -4,4 +4,3 @@ Given a `number` and collection of arrays containing some of the numbers from `1
 Examples:
 + `setCover(5, [[1,2,3], [2,4], [3,4], [4,5]])` => `[[1,2,3], [4,5]]`
 + `setCover(5, [[1,2], [2,3,4], [4,5]])` => `[[1,2], [2,3,4], [4,5]]`
-+ 
